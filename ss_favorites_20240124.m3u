@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="3733" name="CARACOL INTERNACIONAL (MX)" group="LATINO" logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062014/logo_caracol_television.jpg?itok=Wmo-Rups", CARACOL INTERNACIONAL (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/27978
+#EXTINF:0 type="stream" channelId="-1", Caracol HD
+http://190.61.57.2:1010/play/a02j/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Caracol HD" group="3ABN LATINO", Caracol HD
+http://181.119.66.30:8000/play/a04y/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="CO005:CARACOL" group="Colombia", CO005:CARACOL
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/51315
+#EXTINF:0 type="stream" channelId="3783", RCN
+http://181.78.8.90:16123/play/ch59
+#EXTINF:0 type="stream" channelId="-1" name="LA049:RCN" group="Latino" logo="http://www.tvboxgroup.com/iptv/logo/LA/LA049FilmZone.png", LA049:RCN
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/58008
+#EXTINF:0 type="stream" channelId="240" name="Animal Planet HD" group="3ABN LATINO", Animal Planet HD
+http://181.119.66.30:8000/play/a04r/index.m3u8
+#EXTINF:0 type="stream" channelId="2503" name="A&E HD" group="3ABN LATINO", A&E HD
+http://181.119.66.30:8000/play/a03l/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="MX014:Azteca Uno" group="Mexico", MX014:Azteca Uno
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/51444
+#EXTINF:0 type="stream" channelId="-1" name="MX010:Azteca FHD" group="Mexico", MX010:Azteca FHD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/51448
+#EXTINF:0 type="stream" channelId="-1" name="MX011:Azteca 7 FHD" group="Mexico", MX011:Azteca 7 FHD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/51447
+#EXTINF:0 type="stream" channelId="1208" name="A&E (MX)" group="LATINO" logo="http://images.mi.tv/channels/co_a-e-mundo-hd_m.png", A&E (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/27969
+#EXTINF:0 type="stream" channelId="2689" name="ADN40 (MX)" group="LATINO" logo="https://cdn.mitvstatic.com/channels/adn-40-m.png", ADN40 (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28050
+#EXTINF:0 type="stream" channelId="2501" name="AMC HD" group="3ABN LATINO", AMC HD
+http://181.119.66.30:8000/play/a04l/index.m3u8
+#EXTINF:0 type="stream" channelId="1954" name="CANAL DE LAS ESTRELLAS (MX)" group="LATINO" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0iLsdn7TbhveKShpZNMVFwbPjfVnKiOKtKwoMmmqk0dxapbTN", CANAL DE LAS ESTRELLAS (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/27976
+#EXTINF:0 type="stream" channelId="1955" group="General" logo="https://i.imgur.com/uZdVSoW.png", Canal 5 (1080p)
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+#EXTINF:0 type="stream" channelId="284" name="Cinecanal HD" group="3ABN LATINO", Cinecanal HD
+http://181.119.66.30:8000/play/a04k/index.m3u8
+#EXTINF:0 type="stream" channelId="2888" name="Cinemax HD" group="3ABN LATINO", Cinemax HD
+http://181.119.66.30:8000/play/a042/index.m3u8
+#EXTINF:0 type="stream" channelId="341" name="Discovery HD" group="3ABN LATINO", Discovery HD
+http://181.119.66.30:8000/play/a051/index.m3u8
+#EXTINF:0 type="stream" channelId="1961" name="DISTRITO COMEDIA (MX)" group="LATINO" logo="https://images.mi.tv/channels/hn_distrito-comedia_m.png", DISTRITO COMEDIA (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/27993
+#EXTINF:0 type="stream" channelId="1190" name="COMEDY CENTRAL (MX)" group="LATINO" logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/Comedy_Central_1995-2000.png/revision/latest?cb=20130217030126", COMEDY CENTRAL (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/27982
+#EXTINF:0 type="stream" channelId="3746" name="ESPN 2 HD" group="3ABN LATINO", ESPN 2 HD
+http://181.119.66.30:8000/play/a05i/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ESPN EXTRA HD" group="3ABN LATINO", ESPN EXTRA HD
+http://181.119.66.30:8000/play/a04m/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="MX067:ESPN EXTRA" group="Mexico", MX067:ESPN EXTRA
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/51391
+#EXTINF:0 type="stream" channelId="177" name="FOX (MX)" group="LATINO" logo="https://s8.postimg.cc/p1p0tj4it/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg", FOX (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28003
+#EXTINF:0 type="stream" channelId="1328" name="FOX SPORTS (MX)" group="LATINO" logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/58/db/bc/58dbbc42-2d68-2d97-392a-0cf23dc80f6f/AppIcons-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.jpg", FOX SPORTS (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28008
+#EXTINF:0 type="stream" channelId="170" name="FOX SPORTS 2 (MX)" group="LATINO" logo="https://s8.postimg.cc/n9w1yo36d/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg", FOX SPORTS 2 (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28009
+#EXTINF:0 type="stream" channelId="180" name="FOX SPORTS 3 (MX)" group="LATINO" logo="http://epg.justco.cc/guide/logos/mx/FoxSports3.mx.png", FOX SPORTS 3 (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28010
+#EXTINF:0 type="stream" channelId="328" group="News" logo="https://i.imgur.com/dDFrONz.png", Foro TV (1080p)
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+#EXTINF:0 type="stream" channelId="1304" group="Latino", FX HD
+http://181.119.66.30:8000/play/a04g/index.m3u8
+#EXTINF:0 type="stream" channelId="333" name="GOLDEN" group="3ABN LATINO", GOLDEN
+http://181.119.66.30:8000/play/a004/index.m3u8
+#EXTINF:0 type="stream" channelId="3765" name="GOLDEN PLUS (MX)" group="LATINO" logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_hd.png", GOLDEN PLUS (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28016
+#EXTINF:0 type="stream" channelId="2502" name="GOLDEN EDGE" group="3ABN LATINO", GOLDEN EDGE
+http://181.119.66.30:8000/play/a003/index.m3u8
+#EXTINF:0 type="stream" channelId="4591" name="NFL REDZONE (US)" group="NFL" logo="https://www.droid-life.com/wp-content/uploads/2019/08/NFL-RedZone-Verizon-Up-1-1200x900-cropped.png", NFL REDZONE (US)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15890
+#EXTINF:0 type="stream" channelId="2894" name="NFL NETWORK HD" group="NFL" logo="http://pixel.nymag.com/imgs/daily/sports/2012/08/16/17-nfl-network-logo.w190.h190.jpg", NFL NETWORK HD
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15891
+#EXTINF:0 type="stream" channelId="1330", HBO HD
+http://181.78.22.70:8000/play/a02q/index.m3u8
+#EXTINF:0 type="stream" channelId="935", HBO 2 HD
+http://181.78.22.70:8000/play/a02t/index.m3u8
+#EXTINF:0 type="stream" channelId="361", HBO POP HD
+http://181.78.22.70:8000/play/a06e/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="STAR CHANNEL HD" group="3ABN LATINO", STAR CHANNEL HD
+http://45.166.92.22:58001/play/a048/index.m3u8
+#EXTINF:0 type="stream" channelId="2625" name="STUDIO UNIVERSAL (MX)" group="LATINO" logo="https://s8.postimg.cc/ym8nguoud/1516325912_5b84ceaa9a5a2872fb6d4b2b8d6d5c318c221277.jpg", STUDIO UNIVERSAL (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28034
+#EXTINF:0 type="stream" channelId="73" name="SYFY (MX)" group="LATINO" logo="https://lh5.googleusercontent.com/proxy/qwkrrjez24q6ZXwHeHhjJbSDrrEf-jdw836CLaou4U6GeDsEgindXGEdYlGv3HhQHJRI8yNedkOMecVogYhqLuI3jqBdjEdZtiX3EuSKahc5F8FZ0t19rDCT4HvMJtd4UHLCr7GBOutKgX2A0zw=-p", SYFY (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28035
+#EXTINF:0 type="stream" channelId="1052" name="TNT (MX)" group="LATINO" logo="https://s8.postimg.cc/w4ww9nx91/1516362096_b118548d389431cc50d80da692ee4861553c9b35.jpg", TNT (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28039
+#EXTINF:0 type="stream" channelId="1719" name="PARAMOUNT (MX)" group="LATINO" logo="https://cdn.sincroguia.tv/uploads/images/p/a/r/paramount-channel.jpg", PARAMOUNT (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28030
+#EXTINF:0 type="stream" channelId="2557", Warner
+http://181.204.79.182:8202/play/a01j
+#EXTINF:0 type="stream" channelId="2557" name="WARNER (MX)" group="LATINO" logo="https://s8.postimg.cc/xxzsxi5fp/1516364542_ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg", WARNER (MX)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28045
+#EXTINF:0 type="favorites" channelId="2903" group="Latino", Warner HD
+http://45.5.117.182:8000/play/a0i2/index.m3u8
